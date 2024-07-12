@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    margin-top: 400px;
+    text-align: start;
+ h1,h2,h3{
+     margin: 30px;
+ }
+}
